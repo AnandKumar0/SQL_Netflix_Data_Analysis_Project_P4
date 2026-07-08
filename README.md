@@ -1,5 +1,5 @@
 # Netflix Data Analysis using PostgreSQL
-![netflix_logo]()
+![netflix_logo](https://github.com/AnandKumar0/SQL_Netflix_Data_Analysis_Project_P4/blob/main/logo.png)
 ## Project Overview
 
 **Project Title:** Netflix Data Analysis
